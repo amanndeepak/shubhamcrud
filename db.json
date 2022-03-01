@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 10,
+      "name": "212121",
+      "email": "wqewqe",
+      "mobile": 12321321,
+      "address": "saddas",
+      "services": "dasd"
+    },
+    {
+      "id": 14,
+      "name": "eqwwqe",
+      "email": "wqewqe",
+      "mobile": null,
+      "address": "wsadsa",
+      "services": "dsadsa"
+    }
+  ],
+  "signup": [
+    {
+      "name": "Test",
+      "email": "test@gmail.com",
+      "mobile": 865465489,
+      "password": "1234567",
+      "id": 1
+    },
+    {
+      "name": "Shubh",
+      "email": "test2@gmail.com",
+      "mobile": 789456646,
+      "password": "12345",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
